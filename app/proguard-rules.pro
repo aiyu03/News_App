@@ -21,3 +21,4 @@
 #-renamesourcefileattribute SourceFile
 -keep class com.aatech_aplha.news.data.News{*;}
 -keep class com.aatech_aplha.news.api.NewsApiResponse{*;}
+-keep class com.aatech_aplha.news.Database.NewsSaved{*;}
